@@ -23,6 +23,17 @@ Follow these steps to get the project up and running on your local machine.
 ### Dependencies
 * Django>=5.0,<5.1
 * djangorestframework~=3.14
+* gunicorn
+* pillow==10.2.0
+* pytz==2024.1
+* requests==2.31.0
+* sqlparse==0.4.4
+* tzdata==2024.1
+* urllib3==2.2.1
+* whitenoise==6.6.0
+* psycopg
+
+Note: Dependencies are stored in the requirements.txt file
 
 ### Installation Steps
 
