@@ -35,6 +35,9 @@ Follow these steps to get the project up and running on your local machine.
 
 Note: Dependencies are stored in the requirements.txt file
 
+### How to install dependencies
+`pip install <dependency-name>`
+
 ### Installation Steps
 
 1.  **Clone the Repository:**
