@@ -37,6 +37,8 @@ Note: Dependencies are stored in the requirements.txt file
 
 ### How to install dependencies
 `pip install <dependency-name>`
+## Or
+* Run the command `pip install -r requirements.txt` in the root directory
 
 ### Installation Steps
 
